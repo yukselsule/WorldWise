@@ -37,15 +37,39 @@
       "id": "98443197"
     },
     {
-      "id": "cf10",
-      "cityName": "Vistabella",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-06-11T12:47:22.477Z",
+      "id": "ceb3",
+      "cityName": "Samugheo",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-06-21T11:12:29.451Z",
       "notes": "",
       "position": {
-        "lat": "41.23034614496245",
-        "lng": "-1.1865234375000002"
+        "lat": "39.92909072317139",
+        "lng": "8.942871093750002"
+      }
+    },
+    {
+      "id": "f7f6",
+      "cityName": "Porreres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-21T11:16:05.228Z",
+      "notes": "",
+      "position": {
+        "lat": "39.52418327138865",
+        "lng": "3.0102539062500004"
+      }
+    },
+    {
+      "id": "8fdd",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-06-21T11:16:19.331Z",
+      "notes": "",
+      "position": {
+        "lat": "39.777729959302306",
+        "lng": "32.91503906250001"
       }
     }
   ]
